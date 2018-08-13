@@ -1,0 +1,51 @@
+body{
+    margin-top:110px;
+}
+/*
+.row div {
+    padding: 20px 10px;
+    border: 1px solid #000;
+}
+
+.container .row:nth-child(even){
+    background-color: lightcyan;
+}
+
+.container .row:nth-child(odd){
+    background-color: lightsalmon;
+}
+*/
+
+/*.container-fluid {
+    background-color: yellow;
+}*/
+
+.swans {
+    font-family: 'Molle', cursive;
+}
+
+
+.jumbotron, .jumbotron-fluid {
+    background-image: url("../images/swan-evening.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-warning-strawberry {
+    background-color: #FB5F53;
+    border-color: #FB5F53;
+    color: #FFF;
+}
+
+.text-danger-strawberry {
+    color: #FB5F53;
+}
+
+
+/* ABOUT SWANS */
+
+.pswans {
+      padding: 10px 20px 10px 20px;  
+}
+
+
